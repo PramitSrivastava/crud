@@ -16,7 +16,7 @@ export const Navbar = () => {
   return (
    <Header position='static'>
     <Toolbar>
-     <Tabs to='/'>CODE FOR INTERVIEW</Tabs>
+     <Tabs to='/'>CRUD</Tabs>
      <Tabs to='/all'>ALLUSER</Tabs>
       <Tabs to='/add'>ADDUSER</Tabs>
     </Toolbar>
